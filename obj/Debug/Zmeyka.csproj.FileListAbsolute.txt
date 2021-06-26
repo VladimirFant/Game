@@ -1,0 +1,9 @@
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\bin\Debug\Zmeyka.exe.config
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\bin\Debug\Zmeyka.exe
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\bin\Debug\Zmeyka.pdb
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\obj\Debug\Zmeyka.csprojAssemblyReference.cache
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\obj\Debug\Zmeyka.Form1.resources
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\obj\Debug\Zmeyka.Properties.Resources.resources
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\obj\Debug\Zmeyka.csproj.GenerateResource.cache
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\obj\Debug\Zmeyka.exe
+C:\Users\krjak\Desktop\Школа программирования\C#\Папа\Zmeyka\obj\Debug\Zmeyka.pdb
